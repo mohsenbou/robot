@@ -1,0 +1,4 @@
+*** Test Cases ***;${username};${password};
+Invalid password;admin@yourstore.com;admn;
+Invalid username;admin@yorstore.com;admin;
+Invalid username and password;admin@yourstore112.com;adm123;
